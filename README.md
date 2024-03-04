@@ -1,6 +1,8 @@
 # thesis
 Supplementary material for Master Thesis to obtain degree of Industrial Ecology at TU Delft and Leiden University
+
 Author: Laura van Geene
+
 Date: Spring 2023
 
 Repository includes:
