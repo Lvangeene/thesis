@@ -8,8 +8,8 @@ import cbsodata  #API by CBS to load different dataset
 Made by Laura van Geene, Spring 2024, for MSc thesis research.
 
 Code requires data files to run:
-- Figaro IO-table (figaro_ixi_2015.csv)
-- Figaro CO2 extensions (CO2_footprints_2015.csv)
+- Figaro IO-table (download from Figaro website)
+- Figaro CO2 extensions (download from Figaro website)
 - Figaro sector and region labels (region_labels.txt and sector_labels.txt)
 - List of elasticities (for this research: Elasticities Thesis.xlsx)
 - List of expenditures to include in analysis from CBS Dataset (main_expenditures.xlsx)
