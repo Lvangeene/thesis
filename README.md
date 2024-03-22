@@ -1,5 +1,5 @@
-# thesis
-Supplementary material for Master Thesis to obtain degree of Industrial Ecology at TU Delft and Leiden University
+# Thesis
+Supplementary material for Master Thesis to obtain degree of Industrial Ecology at TU Delft and Leiden University.
 
 Author: Laura van Geene
 
